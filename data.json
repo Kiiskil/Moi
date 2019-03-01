@@ -1,9 +1,9 @@
 {
   "document": {
-    "author": "Raman Tehlan",
-    "title": "Official Page of Raman Tehlan | Hello World!",
-    "keywords": "Raman Tehlan ramantehlan Programmer Developer Designer Entrepreneur Resume CV.",
-    "description": "Welcome to the official page of Raman Tehlan, here you can get all the information about him and have a close look at his vision for this world.",
+    "author": "Iiro Laukkanen",
+    "title": "Official Page of Iiro Laukkanen",
+    "keywords": "Iiro Laukkanen Kiiskil Programmer Developer Resume CV.",
+    "description": "Portfolio and information about Iiro Laukkanen",
     "language": "English",
     "charset": "utf-8",
     "robots": "INDEX , FOLLOW",
@@ -88,15 +88,15 @@
     "icon": "fa fa-link"
   }],
   "about": {
-    "title": "Hello There!",
-    "body": "I'm Raman Tehlan, Welcome to my tiny space on the internet, here I share about my work, life and everything in between. If you want to know more about me, feel free to use the above menu and checkout out more about me.",
-    "signature": "Regards <br> <b>Raman Tehlan</b>"
+    "title": "Site of Iiro",
+    "body": "Hi there, I'm Iiro Laukkanen and this is my official page. Here you can find information about me, my education, history and projects. Please check them out.",
+    "signature": "Regards <br> <b>Iiro Laukkanen</b>"
   },
   "profile": {
-    "name": "Raman Tehlan",
+    "name": "Iiro Laukkanen",
     "image": "https://drive.google.com/uc?export=view&id=1qlBcPkxg9usJxJaMZe2y5YYyhGBu6tEh",
-    "domains": "Engineer | Developer | Designer",
-    "vision": "FOSS enthusiast, Just show me the code, love to attend hackathons and startup weekends, Fan of GNU/Linux, UI/UX and good Engineering, Also a visionary.",
+    "domains": "Engineer | Developer",
+    "vision": "I have found a new love towards coding and programming since I started ICT-engineer studies. At the moment, most interesting topic is machine learning.",
     "link": [{
       "name": "resume",
       "url": "https://drive.google.com/open?id=1dloQ-o82YjmJbMkPU1feTpSxIv--5Jfp",
@@ -106,17 +106,17 @@
       "name": "email",
       "url": "",
       "icon": "fas fa-paper-plane",
-      "label": "Ramantehlan[at]gmail"
+      "label": "iiro.laukkanen[at]gmail"
     }, {
       "name": "github",
-      "url": "https://github.com/ramantehlan",
+      "url": "https://github.com/kiiskil",
       "icon": "fab fa-github",
-      "label": "github/ramantehlan"
+      "label": "github/kiiskil"
     }, {
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/ramantehlan/",
+      "url": "https://www.linkedin.com/in/iirolaukkanen/",
       "icon": "fab fa-linkedin-in",
-      "label": "linkedin/in/ramantehlan"
+      "label": "linkedin/in/iirolaukkanen"
     }]
   },
   "work": [{
